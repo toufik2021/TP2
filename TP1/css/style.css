@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+ 
+
+.emploi {
+    color: rgb(33, 57, 88);
+    font-size: 16px;
+    text-decoration: none;
+    
+
+
+}
+
+.emploi:hover {
+    color: rgb(241, 192, 175);
+    text-decoration-line:underline;
+}
+
